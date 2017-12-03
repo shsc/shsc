@@ -1,0 +1,2 @@
+# shsc
+wp dev
